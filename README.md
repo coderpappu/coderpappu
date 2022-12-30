@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Pappu Dey
-![](linkedin.com/in/coderpappu/overlay/background-image/)
-[]
+![<img src='linkedin.com/in/coderpappu/overlay/background-image/' />]
 
 This Is Pappu Dey. With 2 years Of Professionals experience. I'm a full-stack developer.
 I have a strong Knowledge Of Javascript, React js, Python, and Django. I Also Work As a WordPress Developer And Designer. I am Also a Robotics Trainer At Research Lab Chattogram. I Am a Fast Learner And a dedicated Person. I also handle multiple Tasks in daily basis.
