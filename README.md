@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Pappu Dey
-[<img src='[linkedin.com/in/coderpappu/overlay/background-image/](https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/316238608_1023490175275620_1178732598549517643_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFPmYRPVLAFuet9YXKjJja9Au5AmiEtLQEC7kCaIS0tAUTf4jUPau_5-jbX_B_lpcJkgct3LEdpFIOWkPSf-3Xh&_nc_ohc=BgyEU4PbhfcAX8rudLS&_nc_ht=scontent.fcgp3-1.fna&oh=00_AfASwl5ErKExqvevZNEu0-QOD-IgANKwITeYzVE5F4NMxw&oe=63B41CD1)' alt='github' height='40'>](https://github.com/pappudey)
 
 
-[<img src='https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/316238608_1023490175275620_1178732598549517643_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFPmYRPVLAFuet9YXKjJja9Au5AmiEtLQEC7kCaIS0tAUTf4jUPau_5-jbX_B_lpcJkgct3LEdpFIOWkPSf-3Xh&_nc_ohc=BgyEU4PbhfcAX8rudLS&_nc_ht=scontent.fcgp3-1.fna&oh=00_AfASwl5ErKExqvevZNEu0-QOD-IgANKwITeYzVE5F4NMxw&oe=63B41CD1' alt='github'>](https://github.com/pappudey)
+[<img src='https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/279091876_522397509506243_3914779343612846367_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG8RjksE-ByO9GMGeposo06oXBr76MxSpShcGvvozFKlL5sslkXv150SB80jWLCjuXvkce9y5W5oFgeZraga8Dp&_nc_ohc=LVnJkhatnCQAX9FAzE9&_nc_ht=scontent.fcgp3-1.fna&oh=00_AfBLCQWVQ7EeyneqCevZcBxH8qSYaoR9KlhuPQM76d6vYA&oe=63B42B8D' alt='github'>](https://github.com/pappudey)
 
 This Is Pappu Dey. With 2 years Of Professionals experience. I'm a full-stack developer.
 I have a strong Knowledge Of Javascript, React js, Python, and Django. I Also Work As a WordPress Developer And Designer. I am Also a Robotics Trainer At Research Lab Chattogram. I Am a Fast Learner And a dedicated Person. I also handle multiple Tasks in daily basis.
