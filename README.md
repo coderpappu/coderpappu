@@ -1,9 +1,11 @@
 ### Hi there 👋, I'm Pappu Dey
+<hr>
 
+✒I am a Pressional Full Stack Developer <br> <br>
+![Profile views](https://gpvc.arturio.dev/pappudey)  
 
-
-This Is Pappu Dey. With 2 years Of Professionals experience. I'm a full-stack developer.
-I have a strong Knowledge Of Javascript, React js, Python, and Django. I Also Work As a WordPress Developer And Designer. I am Also a Robotics Trainer At Research Lab Chattogram. I Am a Fast Learner And a dedicated Person. I also handle multiple Tasks in daily basis.
+<b><h3>🚀 About Me : </h3> </b> 
+Hello, my name is Pappu Dey and I am a Full-Stack Developer with 3 years of experience. My skills include HTML, CSS, Tailwind, Bootstrap, JavaScript, React JS, React-Redux, Node JS, Python, Django, MySQL,, C#, WordPress, and Robotics. I am a dedicated learner and a fast learner, constantly seeking to expand my knowledge and skillset. I am able to handle multiple tasks on a daily basis and I am able to work under pressure. With 3 years of experience I have a proven track record of delivering high-quality code and meeting tight deadlines. I am passionate about creating robust, scalable and user-friendly web applications. I am a team player who enjoys working in a collaborative environment to achieve success. I am excited to connect and see how I can contribute to your next project.
 
 
 <h3 align="left">Skills :</h3>
@@ -37,13 +39,13 @@ I have a strong Knowledge Of Javascript, React js, Python, and Django. I Also Wo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pappudey&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pappudey)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/pappudey)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=pappudey)  
 
-![Profile views](https://gpvc.arturio.dev/pappudey)  
+
 
 
 
