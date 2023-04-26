@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there 👋, I'm Pappu Dey </h2>
 <h3 align="center"> Professional Full Stack Developer || Founder of Codex Devware <br> <br> </h3>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codex-devware&show_icons=true&locale=en&layout=compact" alt="codex-devware" /></p>
+
 
 ![Profile views](https://gpvc.arturio.dev/pappudey)  
 
@@ -37,7 +37,6 @@ Hello, my name is Pappu Dey and I am a Full-Stack Developer with 3 years of expe
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pappudey)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
 
