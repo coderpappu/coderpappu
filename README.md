@@ -38,9 +38,10 @@ Hello, my name is Pappu Dey and I am a Full-Stack Developer with 3 years of expe
 [![trophy](https://github-profile-trophy.vercel.app/?username=pappudey)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pappudey" alt="pappudey" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pappudey&show_icons=true&count_private=true" alt="pappudey" /></p>
 
