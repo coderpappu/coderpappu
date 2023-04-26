@@ -46,7 +46,11 @@ Hello, my name is Pappu Dey and I am a Full-Stack Developer with 3 years of expe
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pappudey&show_icons=true&count_private=true" alt="pappudey" /></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codex-devware&show_icons=true&locale=en&layout=compact" alt="codex-devware" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codex-devware&show_icons=true&locale=en" alt="codex-devware" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codex-devware&" alt="codex-devware" /></p>
 
 
 ![GitHub metrics](https://metrics.lecoq.io/pappudey)  
