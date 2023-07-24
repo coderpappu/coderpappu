@@ -41,9 +41,9 @@ Hello, my name is Pappu Dey and I am a Full-Stack Developer with 3 years of expe
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pappudey" alt="pappudey" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderpappu" alt="pappudey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pappudey&show_icons=true&count_private=true" alt="pappudey" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderpappu&show_icons=true&count_private=true" alt="pappudey" /></p>
 
 
 
