@@ -35,7 +35,7 @@ Hello, my name is Pappu Dey and I am a Full-Stack Developer with 3 years of expe
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coderpappu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/coderpapppu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/coderpappudey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/papppudey.coder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@pappudey7507)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://developerpappudey.me/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pappudey)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=coderpappu)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
@@ -49,9 +49,9 @@ Hello, my name is Pappu Dey and I am a Full-Stack Developer with 3 years of expe
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/pappudey)  
+![GitHub metrics](https://metrics.lecoq.io/coderpappu)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=pappudey)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=coderpappu)  
 
 
 
