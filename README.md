@@ -3,7 +3,8 @@
 <hr>
 
 ![Github Banner](https://github.com/coderpappu/coderpappu/blob/main/cover_pic.jpg)
-![Profile views](https://gpvc.arturio.dev/coderpappu)  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderpappu&label=Profile%20views&color=0e75b6&style=flat" alt="coderpappu" /> </p>
 
 <b><h3>🚀 About Me : </h3> </b> 
 Hello, my name is Pappu Dey and I am a Full-Stack Developer with 3 years of experience. My skills include HTML, CSS, Tailwind, Bootstrap, JavaScript, React JS, React-Redux, Node JS, Python, Django, MySQL,, C#, WordPress, and Robotics. I am a dedicated learner and a fast learner, constantly seeking to expand my knowledge and skillset. I am able to handle multiple tasks on a daily basis and I am able to work under pressure. With 3 years of experience I have a proven track record of delivering high-quality code and meeting tight deadlines. I am passionate about creating robust, scalable and user-friendly web applications. I am a team player who enjoys working in a collaborative environment to achieve success. I am excited to connect and see how I can contribute to your next project.
