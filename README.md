@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there 👋, I'm Pappu Dey </h2>
-<h3 align="center"> Professional Full Stack Developer || Entreprenuer  <br>  </h3>
+<h3 align="center"> Professional Full Stack Developer || Entrepreneur  <br>  </h3>
 <hr>
 
 ![Github Banner](https://github.com/coderpappu/coderpappu/blob/main/cover_pic.jpg)
