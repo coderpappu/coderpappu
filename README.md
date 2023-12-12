@@ -2,7 +2,7 @@
 <h3 align="center"> Professional Full Stack Developer || Founder of Codex Devware <br> <br> </h3>
 <hr>
 
-![Github Banner](banner.png)
+![Github Banner](https://github.com/coderpappu/coderpappu/blob/main/cover_pic.jpg)
 ![Profile views](https://gpvc.arturio.dev/coderpappu)  
 
 <b><h3>🚀 About Me : </h3> </b> 
