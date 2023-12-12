@@ -7,7 +7,14 @@
 
 <b><h3>🚀 About Me : </h3> </b> 
 Hello, my name is Pappu Dey and I am a Full-Stack Developer with 3 years of experience. My skills include HTML, CSS, Tailwind, Bootstrap, JavaScript, React JS, React-Redux, Node JS, Python, Django, MySQL,, C#, WordPress, and Robotics. I am a dedicated learner and a fast learner, constantly seeking to expand my knowledge and skillset. I am able to handle multiple tasks on a daily basis and I am able to work under pressure. With 3 years of experience I have a proven track record of delivering high-quality code and meeting tight deadlines. I am passionate about creating robust, scalable and user-friendly web applications. I am a team player who enjoys working in a collaborative environment to achieve success. I am excited to connect and see how I can contribute to your next project.
-<br> <br> 
+<br> <be> 
+
+<p align='left'> &emsp;Connect with me!</p>
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/coderpappudey) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coderpappu/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/coderpappu) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coderpappu) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pappudeydeveloper@gmail.com)
+
+<br> <br>
+
 
 - 🔭 I’m currently working on ** Node Js || MongoDB **
 
