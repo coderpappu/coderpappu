@@ -21,13 +21,13 @@ Hello, my name is Pappu Dey and I am a Full-Stack Developer with 3 years of expe
 
 - 🌱 I’m currently learning ** something amazing 🔥**
 
-- 👨‍💻 All of my projects are available at my **portfolio** [https://developerpappudey.me/](https://developerpappudey.me/)
+- 👨‍💻 All of my projects are available at my **portfolio** [https://developerpappudey.pro/](https://developerpappudey.pro/)
 
 - 💬 Ask me about **React, JavaScript, Node JS,  Python , Django , Flask**
 
 - 📫 How to reach me **pappudeydeveloper@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://developerpappudey.me/)
+- 📄 Know about my experiences [Resume](https://developerpappudey.pro/)
 
 - 👯 I’m looking to collaborate on Github 
 
