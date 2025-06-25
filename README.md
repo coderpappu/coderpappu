@@ -1,71 +1,115 @@
-<h2 align="center"> Hi there 👋, I'm Pappu Dey </h2>
-<h3 align="center"> Professional Full Stack Developer || Entrepreneur  <br>  </h3>
-<hr>
+<h2 align="center">Hi there 👋, I'm Pappu Dey</h2>
+<h3 align="center">Professional Full Stack Developer | Tech Entrepreneur</h3>
 
-![Github Banner](https://github.com/coderpappu/coderpappu/blob/main/cover_pic.jpg)
+<p align="center">
+  <img src="https://github.com/coderpappu/coderpappu/blob/main/cover_pic.jpg" alt="Banner" width="100%" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderpappu&label=Profile%20views&color=0e75b6&style=flat" alt="coderpappu" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coderpappu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<b><h3>🚀 About Me : </h3> </b> 
-Hello, my name is Pappu Dey and I am a Full-Stack Developer with 3 years of experience. My skills include HTML, CSS, Tailwind, Bootstrap, JavaScript, React JS, React-Redux, Node JS, Python, Django, MySQL,, C#, WordPress, and Robotics. I am a dedicated learner and a fast learner, constantly seeking to expand my knowledge and skillset. I am able to handle multiple tasks on a daily basis and I am able to work under pressure. With 3 years of experience I have a proven track record of delivering high-quality code and meeting tight deadlines. I am passionate about creating robust, scalable and user-friendly web applications. I am a team player who enjoys working in a collaborative environment to achieve success. I am excited to connect and see how I can contribute to your next project.
-<br> <be> 
+---
 
-<p align='left'> &emsp;Connect with me!</p>
+### 🚀 About Me
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/coderpappudey) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coderpappu/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/coderpappu) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coderpappu) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pappudeydeveloper@gmail.com)
+Hi! I'm **Pappu Dey**, a passionate Full Stack Developer with over **3 years** of hands-on experience in building modern web applications and software solutions. I specialize in both frontend and backend technologies, and I'm always looking for new challenges that push my boundaries.
 
-<br>
+I'm an enthusiastic learner, fast adapter, and enjoy solving complex problems with clean, scalable code. I thrive in collaborative environments and love turning ideas into real-world, user-focused solutions.
 
+---
 
-- 🔭 I’m currently working on ** Node Js || MongoDB **
+### 💼 Tech Stack
 
-- 🌱 I’m currently learning ** something amazing 🔥**
+**Languages & Frameworks:**
 
-- 👨‍💻 All of my projects are available at my **portfolio** [https://developerpappudey.pro/](https://developerpappudey.pro/)
+- JavaScript, TypeScript, Python, C#, PHP
+- HTML5, CSS3, TailwindCSS, Bootstrap
+- React.js, Redux, Vue.js
+- Node.js, Express.js
+- Django, Flask
+- MySQL, MongoDB, Firebase
 
-- 💬 Ask me about **React, JavaScript, Node JS,  Python , Django , Flask**
+**Tools & Platforms:**
 
-- 📫 How to reach me **pappudeydeveloper@gmail.com**
+- Git, GitHub, Figma, Postman
+- WordPress, Adobe Photoshop/Illustrator
+- VS Code, Linux, REST APIs
 
-- 📄 Know about my experiences [Resume](https://developerpappudey.pro/)
+---
 
-- 👯 I’m looking to collaborate on Github 
+### 🌱 Currently Exploring
 
+- Backend architecture with Node.js & MongoDB
+- AI integrations in full-stack apps
+- Building reusable UI libraries with React & TailwindCSS
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  </p>
+---
 
+### 📫 Get in Touch
 
+Let's connect and build something amazing together!
 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/coderpappudey)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coderpappu/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/coderpappu)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coderpappu)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pappudeydeveloper@gmail.com)
 
+---
 
+### 🔗 Quick Links
 
+- 🔭 Portfolio: [developerpappudey.pro](https://developerpappudey.pro/)
+- 📄 Resume: [View Resume](https://developerpappudey.pro/)
+- 💬 Ask Me About: `React`, `Node.js`, `Django`, `MongoDB`, `Flask`, `TailwindCSS`
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=coderpappu)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+### 🛠️ Tools & Technologies
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" />
+</p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderpappu" alt="pappudey" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderpappu&show_icons=true&count_private=true" alt="pappudey" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderpappu&layout=compact" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderpappu&show_icons=true&count_private=true" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=coderpappu" alt="GitHub Streak" />
+</p>
 
+![GitHub Metrics](https://metrics.lecoq.io/coderpappu)
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=coderpappu&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/coderpappu)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=coderpappu)  
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" /></a>
+  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" /></a>
+</p>
