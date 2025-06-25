@@ -27,7 +27,7 @@ I'm an enthusiastic learner, fast adapter, and enjoy solving complex problems wi
 - HTML5, CSS3, TailwindCSS, Bootstrap
 - React.js,Next Js, Redux, Vue.js
 - Node.js, Express.js
-- Django, Flask
+- Django, Flask, Prisma, Mongoose
 - MySQL, MongoDB, Firebase
 
 **Tools & Platforms:**
@@ -84,6 +84,7 @@ Let's connect and build something amazing together!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
+  <img src="https://www.datocms-assets.com/58377/1688031395-logo_on_light.svg" width="40" />
 </p>
 
 ---
