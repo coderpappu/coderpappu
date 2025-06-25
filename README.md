@@ -38,14 +38,6 @@ I'm an enthusiastic learner, fast adapter, and enjoy solving complex problems wi
 
 ---
 
-### 🌱 Currently Exploring
-
-- Backend architecture with Node.js & MongoDB
-- AI integrations in full-stack apps
-- Building reusable UI libraries with React & TailwindCSS
-
----
-
 ### 📫 Get in Touch
 
 Let's connect and build something amazing together!
