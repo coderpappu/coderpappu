@@ -91,19 +91,38 @@ Let's connect and build something amazing together!
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderpappu&layout=compact" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=coderpappu&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=coderpappu&theme=react" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderpappu&layout=compact&theme=react" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderpappu&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=coderpappu&theme=flat&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=coderpappu" alt="GitHub Streak" />
-</p>
+---
+
+### 📈 Contribution Metrics
+
+<img src="https://metrics.lecoq.io/coderpappu" alt="GitHub Metrics" width="100%" />
+
 
 ![GitHub Metrics](https://metrics.lecoq.io/coderpappu)
 
